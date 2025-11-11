@@ -1,3 +1,5 @@
+// © 2025 Priyamvada Kumari | Licensed under MIT License
+  
 const input = document.querySelector('.inputBox');
 const buttons= document.querySelectorAll('button'); 
 let str=" ";
